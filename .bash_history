@@ -52,3 +52,85 @@ sync
 reboot
 ping www.cnn.com
 poweroff 
+cd boot
+cd ..
+cd boot
+cd grub
+vi grub.cfg
+ls
+vi grub.cfg~
+vi etc/default/grub
+ls
+rm ~
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+cd default
+ls
+vi grub
+cd ..
+cd ..
+ls
+cd boot
+ls
+cd grub
+ls
+vi grub.cfg
+vi grub.cfg
+vi grub.cfg~
+cd ..
+cd ..
+vi /erc/default/grub
+ls
+vi /etc/default/grub
+ls
+cd boot
+ls
+cd grub
+ls
+vi grub.cfg
+cd ..
+cd ..
+vi /etc/grub.d/40_custom
+cd ..
+ls
+cd boot
+ls
+cd grub
+ls
+vi grub.cfg
+cd ..
+cd ..
+vi /etc/grub.d/40_custom
+ls
+cd boot
+cd grub
+vi grub.cfg
+cd ..
+cd ..
+vi /etc/grub.d/40_custom
+cd boot
+cd grub
+vi grub.cfg
+cd ..
+cd ..
+vi /etc/grub.d/40_custom
+update grub
+update-grub
+reboot
+ls
+cd ..
+ls
+cd boot
+cd grub
+vi grub.cfg
+cd ..
+cd ..
+ls
+vi /etc/grub.d/40_custom
+update-grub
+reboot
+reboot
